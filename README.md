@@ -2,7 +2,7 @@
 Exploring the relationship between squad age and squad performance in the UEFA Euro 2024 tournament
 
 ## 1. Goal
-The goal of this project is to investigate the relationship between squad age and squad performance in the UEFA Euro 2024 tournamnet. 
+The goal of this project is to investigate the relationship between squad age and squad performance in the UEFA Euro 2024 tournament.
 
 ## 2. Dataset
 There are 2 datasets used in this analysis.
